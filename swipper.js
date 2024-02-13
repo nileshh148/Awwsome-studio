@@ -1,0 +1,30 @@
+// var swiper = new Swiper(".mySwiper", {
+//   cssMode: true,
+//   navigation: {
+//     nextEl: ".swiper-button-next",
+//     prevEl: ".swiper-button-prev",
+//   },
+//   pagination: {
+//     el: ".swiper-pagination",
+//   },
+//   mousewheel: true,
+//   keyboard: true,
+// });
+// var swiper = new Swiper(".mySwiper", {
+//     slidesPerView: 3,
+//     spaceBetween: 30,
+//     freeMode: true,
+//     pagination: {
+//       el: ".swiper-pagination",
+//       clickable: true,
+//     },
+//   });
+var swiper = new Swiper(".mySwiper", {
+    slidesPerView: 4,
+    spaceBetween: 20,
+    freeMode: true,
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+  });
