@@ -71,9 +71,10 @@ nav {
     overflow: hidden;
     /* font-weight: 3px; */
     font-family: neue-thin;
-
     font-weight: 400;
-
+}
+#nav2 h4:hover{
+    scale: 1.15;
 }
 
 #nav2 h4::after {
@@ -92,6 +93,7 @@ nav {
     bottom: 0;
     border-radius: 0;
     color: #EFEAE3;
+    
 }
 
 #nav2 h4 a {
