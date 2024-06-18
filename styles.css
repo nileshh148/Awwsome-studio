@@ -74,7 +74,7 @@ nav {
     font-weight: 400;
 }
 #nav2 h4:hover{
-    scale: 2;
+    scale: 1.19;
 }
 
 #nav2 h4::after {
