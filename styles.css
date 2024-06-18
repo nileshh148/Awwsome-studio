@@ -535,7 +535,6 @@ fixed-image {
     width: 100%;
     height: 10vw;
     top: 20%;
-    background-color: ;
     z-index: 10;
     display: flex;
     justify-content: space-between;
